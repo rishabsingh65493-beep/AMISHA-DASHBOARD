@@ -1,8 +1,8 @@
-# AMISHA-DASHBOARD 📊 Amisha Sales Report – Power BI Dashboard
+# REASHAB-DASHBOARD 📊 REASHAB Sales Report – Power BI Dashboard
 
 📝 Project Description
 
-The Amisha Sales Report is a comprehensive Power BI dashboard designed to analyze and visualize sales performance data. It helps track business growth, customer trends, and product performance through interactive visuals and KPIs.
+The REASHAB Sales Report is a comprehensive Power BI dashboard designed to analyze and visualize sales performance data. It helps track business growth, customer trends, and product performance through interactive visuals and KPIs.
 
 This report was developed to support data-driven decision-making by providing clear insights into sales trends, revenue streams, and profitability across multiple dimensions such as product category, region, and time period.
 
@@ -60,6 +60,6 @@ This report empowers management with actionable insights, enabling them to:
 
 👤 Author
 
-Created by: Amisha Gupta
+Created by: REASAHB SINGH
 Tool Used: Microsoft Power BI
 Project: Amisha Sales Performance Dashboard  
